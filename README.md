@@ -12,6 +12,7 @@ Before accessing the files, make sure that you have these libraries in your syst
 7. Matplotlib
 8. Matplotlib.pyplot
 
-The current repository consist of 3 projects.
+The current repository consist of 1 project.
+1. Sound Classification
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
