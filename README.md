@@ -14,5 +14,6 @@ Before accessing the files, make sure that you have these libraries in your syst
 
 The current repository consist of 1 project.
 1. Sound Classification
+2. Image Detection (This file consist of other directories like myWebApp, templates & imgUpload)
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
