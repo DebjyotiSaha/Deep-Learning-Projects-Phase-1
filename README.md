@@ -12,7 +12,7 @@ Before accessing the files, make sure that you have these libraries in your syst
 7. Matplotlib
 8. Matplotlib.pyplot
 
-The current repository consist of 1 project.
+The current repository consist of 2 project.
 1. Sound Classification
 2. Image Detection (This file consist of other directories like myWebApp, templates & imgUpload)
 
