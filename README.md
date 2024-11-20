@@ -1,19 +1,49 @@
-# Deep-Learning-Projects
+# Deep Learning Projects - Phase 1
 
-The following repository consists of Web based application using python libraries.
+This repository contains deep learning projects built using Python and various deep learning libraries. These projects showcase applications in image detection and sound classification.
 
-Before accessing the files, make sure that you have these libraries in your system.
-1. Numpy
-2. Pandas
-3. Streamlit
-4. Cufflinks
-5. sklearn
-6. Seaborn
-7. Matplotlib
-8. Matplotlib.pyplot
+## Projects Included:
 
-The current repository consist of 2 project.
-1. Sound Classification
-2. Image Detection (This file consist of other directories like myWebApp, templates & imgUpload)
+1. **Sound Classification**
+   - A model to classify sounds based on training data.
+   
+2. **Image Detection**
+   - Includes multiple components:
+     - `myWebApp`: Web application to interact with image detection models.
+     - `templates`: Templates for web app.
+     - `imgUpload`: A directory for uploading images.
 
-**Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
+## Requirements:
+
+Ensure that you have the following libraries installed:
+- Numpy
+- Pandas
+- Streamlit
+- Cufflinks
+- Sklearn
+- Seaborn
+- Matplotlib
+- OpenCV (For image processing tasks)
+
+## Installation Instructions:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/DebjyotiSaha/Deep-Learning-Projects-Phase-1.git
+   ```
+
+2. Install required libraries:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. For image detection tasks, you may want to use **Google Colab** or any IDE that supports OpenCV.
+
+## Usage:
+
+- **Sound Classification**: Follow the instructions in the notebook to train and test the model on sound data.
+- **Image Detection**: Launch the web app (`myWebApp`) to upload and classify images.
+
+## License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
